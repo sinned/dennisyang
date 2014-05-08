@@ -23,7 +23,8 @@ switch ($_SERVER['SERVER_NAME']) {
   break;
   default:
     // heroku cleardb settings.
-    $cleardb_url=parse_url(getenv("CLEARDB_DATABASE_URL"));
+    //$cleardb_url=parse_url(getenv("CLEARDB_DATABASE_URL"));
+    $cleardb_url=parse_url(getenv("1AND1_DATABASE_URL"));
 
     $cleardb_server = $cleardb_url["host"];
     $cleardb_username = $cleardb_url["user"];
