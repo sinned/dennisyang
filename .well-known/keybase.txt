@@ -1,0 +1,66 @@
+==================================================================
+https://keybase.io/sinned
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.dennisyang.com
+  * I am sinned (https://keybase.io/sinned) on keybase.
+  * I have a public key with fingerprint 30CF D606 0563 674E 825F  4614 9165 3762 3F33 657E
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "30cfd6060563674e825f4614916537623f33657e",
+            "host": "keybase.io",
+            "key_id": "916537623f33657e",
+            "uid": "f9a58288882cc9c66557d041ff5e7300",
+            "username": "sinned"
+        },
+        "service": {
+            "hostname": "www.dennisyang.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1399568604,
+    "expire_in": 157680000,
+    "prev": "bada720cc14f3d64538fbd5278e6df26ebe58097a6c24e026cbcf10f091d1a7a",
+    "seqno": 7,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v0.1.14
+Comment: https://keybase.io/crypto
+
+yMHrAnicbZFrSBRvFMbXvF3KMrpYYEXTh7LU5va+M7sIeYGi6IJJEREsc3lnnWxn
+1pl1t3UxA7HCMgIjCstgCzKhZakNjPqgImsiSBIuGkpsYRb+P5RQFIbrO4v8P3W+
+DO9zfs9z5nCG8tNteWnt8ZGK22t2rU0b7f/ZaKut75sOEqIuBwhHkKhHqY+iai5k
+eAxV8xIOgiElRYYkJAFkIMcingYKCynWTkHAcJBmFIaBgENECVGnm5YDx4iCicpU
+HWv44VRlrP6Db0w1FLsAeJrHRUuSXYIQAE4mWUpRAOIYkrRAExma4EaYNlVNQzLR
+XEJgzadKWAumBq/0/X5/mYw0TTUDguYqk3Q39nsM3atL+gXcr/N6PQ7L7g14UjwS
+nStJTlHVZLw7NviQYaq6RjgoTEpe1YqmGLsdQB6SbAmBLnpUAzlViwAc5Elc1hjk
+w5GiIAscTUoSxSqMDFnA8IooA5rjEZQVGiIRAZ60cwKUaBaRNJRESaFIhbRTMiVw
+Ap5vogZNJxwc/k3BldrapQneRgMRzYP95zJsaXm2rMxV1vVsebkF/9/0bnbSXAd6
+u+Y3dh6tyd3vGz3NhuqqN0SS7lD1mfVdT059ONB+reN38VKyujJj4vBwztzn72Lb
+rXfnL98sbJpaCN3puxKfqv3EzOqx6ZxNsCY81/3CDFeWPmpe/WfI9io8nSj8mP/3
+xGxrzfGXRCS2uGUwc2KPf3NFx7jv5Ix5ditTWXU1/9AY9cz9oDv6fnjyBztwr7xo
+3MyOt2miTvYUHwuPlcZuNP3nzza4+pmdUc/Ton2tiTnqazyapV06GLDNRMpHjlRM
+Uuxsz8DbBT3xMBltiYRa3uzu2hZccrhC9zuL925vKIj1LgmLX66nT0afPx7/pgid
+Va9/xScS8+4dy1wVGiI=
+=KTH5
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sinned
+
+==================================================================
+
